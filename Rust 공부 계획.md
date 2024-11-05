@@ -1,13 +1,13 @@
 ## 참고서
-- The Rust Programming Language
-	- https://doc.rust-lang.org/book/title-page.html
-	- https://doc.rust-kr.org/
+### The Rust Programming Language
+- https://doc.rust-lang.org/book/title-page.html
+- https://doc.rust-kr.org/
 
-- Rust by Example
-	- https://doc.rust-lang.org/rust-by-example/
+### Rust by Example
+- https://doc.rust-lang.org/rust-by-example/
 
-- Rust by Practice
-	- https://practice.course.rs/
+### Rust by Practice
+- https://practice.course.rs/
 
 ---
 ## 계획
