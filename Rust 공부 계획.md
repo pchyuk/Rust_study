@@ -18,7 +18,7 @@
 	- [ ] 3. 변수와 가변성, 데이터 타입, 주석, 제어 흐름문
 
 - [ ] Rust by Example
-	- [ ] primitives
+	- [ ] 2. primitives
 
 - [ ] Rust by Practice
 	- [ ] hello world
