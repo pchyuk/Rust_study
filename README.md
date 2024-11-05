@@ -6,3 +6,9 @@
 ### The Rust Programming Language
 - https://doc.rust-kr.org/
 
+### Rust By Example
+- https://doc.rust-lang.org/rust-by-example/
+
+### Rust By Practice
+- https://practice.course.rs/
+
