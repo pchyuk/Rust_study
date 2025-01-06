@@ -1,0 +1,1 @@
+C:\Users\user\Desktop\Rust_study\book\game_project\target\debug\game_project.exe: C:\Users\user\Desktop\Rust_study\book\game_project\src\game.rs C:\Users\user\Desktop\Rust_study\book\game_project\src\main.rs C:\Users\user\Desktop\Rust_study\book\game_project\src\user.rs C:\Users\user\Desktop\Rust_study\book\game_project\src\utils.rs

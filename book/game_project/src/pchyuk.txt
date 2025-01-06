@@ -1,0 +1,8 @@
+player D
+player2 W
+player W
+player W
+player D
+player2 L
+player L
+player2 D
