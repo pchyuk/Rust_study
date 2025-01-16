@@ -1,0 +1,6 @@
+[package]
+name = "file_management_project_single"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
