@@ -1,0 +1,1 @@
+C:\Users\user\Desktop\Rust_study\project\file_management_project_single\target\debug\file_management_project_single.exe: C:\Users\user\Desktop\Rust_study\project\file_management_project_single\src\main.rs
