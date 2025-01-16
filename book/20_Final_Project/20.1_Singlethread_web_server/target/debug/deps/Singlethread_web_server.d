@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Rust_study\book\20_Final_Project\20.1_Singlethread_web_server\target\debug\deps\Singlethread_web_server.exe: src/main.rs
+
+C:\Users\user\Desktop\Rust_study\book\20_Final_Project\20.1_Singlethread_web_server\target\debug\deps\Singlethread_web_server.d: src/main.rs
+
+src/main.rs:

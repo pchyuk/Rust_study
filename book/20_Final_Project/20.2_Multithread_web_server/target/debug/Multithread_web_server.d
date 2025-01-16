@@ -1,0 +1,1 @@
+C:\Users\user\Desktop\Rust_study\book\20_Final_Project\20.2_Multithread_web_server\target\debug\Multithread_web_server.exe: C:\Users\user\Desktop\Rust_study\book\20_Final_Project\20.2_Multithread_web_server\src\main.rs
